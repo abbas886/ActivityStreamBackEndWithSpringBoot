@@ -1,0 +1,12 @@
+com\stackroute\activity\model\UserCircle.class
+com\stackroute\activity\daoimpl\CircleDAOImpl.class
+com\stackroute\activity\daoimpl\UserDAOImpl.class
+com\stackroute\activity\model\Message.class
+com\stackroute\activity\config\SpringBootStarter.class
+com\stackroute\activity\daoimpl\MessageDAOImpl.class
+com\stackroute\activity\dao\CircleDAO.class
+com\stackroute\activity\log\ActivityStreamLog.class
+com\stackroute\activity\model\Circle.class
+com\stackroute\activity\model\User.class
+com\stackroute\activity\dao\MessageDAO.class
+com\stackroute\activity\dao\UserDAO.class
